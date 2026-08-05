@@ -1,0 +1,11 @@
+<svg width="420" height="160" viewBox="0 0 420 160" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Casa Burguer</title>
+  <desc id="desc">Logo da Casa Burguer com casa, chama e tipografia limpa.</desc>
+  <path d="M165 56V32L210 14L255 32V56" stroke="#E6CBAA" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M255 32H271V57" stroke="#E6CBAA" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M275 7C289 22 267 34 281 49C259 39 267 21 275 7Z" fill="#FF6A00"/>
+  <text x="210" y="112" text-anchor="middle" font-family="Montserrat, Segoe UI, Arial, sans-serif" font-size="58" font-weight="500" letter-spacing="15" fill="#F8F2E8">CASA</text>
+  <path d="M101 137H142" stroke="#FF6A00" stroke-width="4" stroke-linecap="round"/>
+  <path d="M278 137H319" stroke="#FF6A00" stroke-width="4" stroke-linecap="round"/>
+  <text x="210" y="143" text-anchor="middle" font-family="Montserrat, Segoe UI, Arial, sans-serif" font-size="17" font-weight="800" letter-spacing="13" fill="#FF6A00">BURGUER</text>
+</svg>
